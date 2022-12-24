@@ -1,0 +1,15 @@
+G:\GeekBrains\C#\home work8\54\bin\Debug\net6.0\54.exe
+G:\GeekBrains\C#\home work8\54\bin\Debug\net6.0\54.deps.json
+G:\GeekBrains\C#\home work8\54\bin\Debug\net6.0\54.runtimeconfig.json
+G:\GeekBrains\C#\home work8\54\bin\Debug\net6.0\54.dll
+G:\GeekBrains\C#\home work8\54\bin\Debug\net6.0\54.pdb
+G:\GeekBrains\C#\home work8\54\obj\Debug\net6.0\54.csproj.AssemblyReference.cache
+G:\GeekBrains\C#\home work8\54\obj\Debug\net6.0\54.GeneratedMSBuildEditorConfig.editorconfig
+G:\GeekBrains\C#\home work8\54\obj\Debug\net6.0\54.AssemblyInfoInputs.cache
+G:\GeekBrains\C#\home work8\54\obj\Debug\net6.0\54.AssemblyInfo.cs
+G:\GeekBrains\C#\home work8\54\obj\Debug\net6.0\54.csproj.CoreCompileInputs.cache
+G:\GeekBrains\C#\home work8\54\obj\Debug\net6.0\54.dll
+G:\GeekBrains\C#\home work8\54\obj\Debug\net6.0\refint\54.dll
+G:\GeekBrains\C#\home work8\54\obj\Debug\net6.0\54.pdb
+G:\GeekBrains\C#\home work8\54\obj\Debug\net6.0\54.genruntimeconfig.cache
+G:\GeekBrains\C#\home work8\54\obj\Debug\net6.0\ref\54.dll
